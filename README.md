@@ -1,2 +1,7 @@
 # Staff-Management-System---JAVA-
-This Online Staff Management System was developed by us for the second year second semester Obeject Orieneted Programming(OOP) project at SLIIT.
+We developed this Online Staff Management System for the second year second semester Obeject Oriented Programming(OOP) project at SLIIT.
+
+The project code is in the master branch.
+
+I done with the feedback management function and there are 3 other functions along.
+
